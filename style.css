@@ -1,0 +1,33 @@
+
+body
+{ font:  Arial, Helvetica, sans-serif;
+  background: transparent url(../images/pattern.jpg) repeat;
+  color: #000;
+}
+
+form{
+	line-height: 25px;
+}
+
+label{
+	display: inline-block;
+	text-align:right;
+	width: 250px;
+}
+input{
+	display: inline-block;
+	width: 250px;
+}
+
+input[type="submit"]{
+	float:center;
+	margin-left:258px; 
+	
+}
+
+b
+{ font: normal 190% Arial, Helvetica, sans-serif;}
+
+
+
+
